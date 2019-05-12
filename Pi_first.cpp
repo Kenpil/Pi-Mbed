@@ -28,4 +28,4 @@ int main(int argc, char **argv)
     bcm2835_i2c_end();
     bcm2835_close();
     return 0;
-    }
+}
